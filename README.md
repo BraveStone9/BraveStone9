@@ -10,8 +10,8 @@
 
 - 📫 How to reach me **aditya27yadav@gmail.com**
 
-- 📄 Know about my experiences [https://bravestone9.github.io/](https://bravestone9.github.io/)
-
+<!-- - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/aditya27yadav/)
+ -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aditya27yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya27yadav" height="30" width="40" /></a>
