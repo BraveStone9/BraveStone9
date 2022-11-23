@@ -1,7 +1,7 @@
 [![MasterHead](https://static.wikia.nocookie.net/battlefordreamisland/images/8/87/KENOBI.gif/revision/latest?cb=20200310124840)](https://BraveStone9.github.io)
 <h1 align="center">Hi 👋, I'm @BraveStone9 (Aditya Yadav)</h1>
 <p align="center">- 👀 I’m interested in programming new NLP models for chatbots, Data Analyses and Data visualisation. <br>
-  - 🌱 I’m currently enrolled in dual study [Master's programme](http://www.maid.education/en/home/) in Deggendorf Institute of technolgy, Germany and Univeristy of South Bohemia in Czech Republic in the field AI&DS. <br>
+  - 🌱 I’m currently enrolled in joint degree <a href="http://www.maid.education/en/home/">Master's Program</a> in Deggendorf Institute of technolgy, Germany and Univeristy of South Bohemia in Czech Republic in the field AI&DS. <br>
   - 💞️ I'm open to collaborate on projects which belongs to NLP, Data Analyses and ML.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bravestone9&label=Profile%20views&color=0e75b6&style=flat" alt="bravestone9" /> </p>
