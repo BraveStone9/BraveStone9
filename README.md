@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://bravestone9.github.io/](https://bravestone9.github.io/)
 
-- 📫 How to reach me **aditya27yadav@gmail.com**
+- 📫 How to reach me **adityayadav2739@gmail.com**
 
 <!-- - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/aditya27yadav/)
  -->
