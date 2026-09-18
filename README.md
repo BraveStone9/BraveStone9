@@ -131,13 +131,13 @@ B.Tech in Computer Science — Rajiv Gandhi Proudyogiki Vishwavidyalaya
 
 ---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bravestone9&show_icons=true&locale=en&layout=compact" alt="bravestone9" />
+<!-- <p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bravestone9&show_icons=true&theme=default&hide_border=true" alt="bravestone9" />
 </p>
 
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bravestone9&show_icons=true&locale=en" alt="bravestone9" />
-</p>
+</p> -->
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bravestone9&" alt="bravestone9" />
