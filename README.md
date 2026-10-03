@@ -6,7 +6,7 @@
 <p align="center">Based in Mannheim, Germany</p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=bravestone9&label=Profile%20views&color=0e75b6&style=flat" alt="bravestone9" />
+  <img src="https://komarev.com/ghpvc/?username=bravestone9&label=Profile%20views&color=0e75b6&style=flat&v=2" alt="Profile views" />
 </p>
 
 ---
